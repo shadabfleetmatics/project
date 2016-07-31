@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace VS_2013_Demo
 {
-    class Program
+    class MyClass
     {
-        static void Main(string[] args)
-        {
-            //V1.1 changes
-        }
+        //V1.1 Changes
     }
 }
