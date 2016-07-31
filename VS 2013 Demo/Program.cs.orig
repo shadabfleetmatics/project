@@ -11,9 +11,13 @@ namespace VS_2013_Demo
         static void Main(string[] args)
         {
             //V1.1 changes
+<<<<<<< Updated upstream
 
             //these changes will stashed
             //master chagnes
+=======
+            //these changes will stashed
+>>>>>>> Stashed changes
         }
     }
 }
