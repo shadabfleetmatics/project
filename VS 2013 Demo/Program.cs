@@ -14,7 +14,7 @@ namespace VS_2013_Demo
 
             //these changes will stashed
             //master chagnes
-
+            //Hello Friends
             //changes from visual studio 2013
         }
     }
